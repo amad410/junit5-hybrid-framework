@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Web Test Suite">
+    <test name="Web Tests" verbose="2">
+        <classes>
+            <class name = "com.demo.tests.web.WebTest"></class>
+        </classes>
+    </test>
+</suite>
